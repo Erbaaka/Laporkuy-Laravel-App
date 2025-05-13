@@ -11,3 +11,5 @@ This application features :
 To access this application, visit : https://nawaforum.infy.uk/
 
 To view the line of code of this application, please download the .zip file
+
+Also, download the SQL file to ensure the db are work properly.
