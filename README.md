@@ -29,7 +29,7 @@ This application is built using a modern and efficient stack:
 
 ## Access & Setup
 
-You can access the live application here: **[Your Deployment Link Here]**
+You can access the live application here: **(https://laporkuy.unaux.com/)**
 
 To run this application locally, please follow these steps:
 
